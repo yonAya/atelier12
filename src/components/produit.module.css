@@ -1,0 +1,17 @@
+.produit {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.produit img {
+  width: 100%;
+  height: 200px;
+}
+
+.produit button {
+  color: white;
+  background-color: black;
+  width: 100%;
+}
